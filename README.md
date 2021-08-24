@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Brandon Charest
 
-I am a Software Engineer and Life-Long learner. Currently for work I am
-
+I am a Software Engineer and Life-Long learner. 
+<!--
 Current Areas of Interest:
 ReactJS
 Typescript
@@ -15,7 +15,7 @@ GraphQL
 ---
 
 
-<!--
+
 **brandon-charest/brandon-charest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
