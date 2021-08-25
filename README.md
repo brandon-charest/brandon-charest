@@ -1,22 +1,22 @@
-### Hi there 👋, I'm Brandon Charest
+# Hi there 👋, I'm Brandon Charest
 
 I am a Software Engineer and Life-Long learner
 
-🛠 Technologies & Tools
+## 🛠 Technologies & Tools
 ---
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
 
 
-🌱 Technologies I’m currently learning 
+## 🌱 Technologies I’m currently learning 
 ---
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" width="50" height="50"/>
 
 
-🔭 I’m currently working on
+## 🔭 I’m currently working on
 ---
 Starting a tech blog.
 
-Repo Stats
+## Repo Stats
 ---
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula" alt="Top language used in my repos" />
 
