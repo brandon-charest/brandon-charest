@@ -14,7 +14,7 @@ I am a Software Engineer and Life-Long learner
 
 ## 🔭 I’m currently working on
 ---
-Working towards Masters in CS.
+Working towards Masters in CS.</br>
 Starting a tech blog.
 
 ## Repo Stats
