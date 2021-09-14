@@ -14,8 +14,8 @@ I am a Software Engineer and Life-Long learner
 
 ## 🔭 I’m currently working on
 ---
-Working towards Masters in CS.</br>
-Starting a tech blog.
+🏫 Working towards Masters in CS.</br>
+💻 Starting a tech blog.
 
 ## Repo Stats
 ---
@@ -24,12 +24,13 @@ Starting a tech blog.
 
 ☕ How to connect with me:
 ---
-[![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/brandon-charest/)](www.linkedin.com/in/brandon-charest/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:b.charest019@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/brandon-charest/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.charest019@gmail.com)](mailto:b.charest019@gmail.com)
 
 
 
 <img src="https://komarev.com/ghpvc/?username=brandon-charest" alt="brandon-charest" />
+
 <!--
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&langs_count=5" />
