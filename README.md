@@ -24,7 +24,7 @@ Starting a tech blog.
 
 ☕ How to connect with me:
 ---
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brandon-charest)
+[![Linkedin Badge](https://img.shields.io/badge/-csabatothdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/brandon-charest/)](www.linkedin.com/in/brandon-charest/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:b.charest019@gmail.com)
 
 
