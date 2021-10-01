@@ -14,11 +14,11 @@ I am a Software Engineer and Life-Long learner
 🏫 Working towards Masters in CS.</br>
 💻 Starting a tech blog.
 
-## Repo Stats
+## ⭐ Repo Stats
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula&hide=HTML" alt="Top language used in my repos" />
 
 
-☕ How to connect with me:
+## ☕ How to connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/brandon-charest/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.charest019@gmail.com)](mailto:b.charest019@gmail.com)
 
