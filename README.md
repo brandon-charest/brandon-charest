@@ -15,7 +15,7 @@ I am a Software Engineer and Life-Long learner
 💻 Starting a tech blog.
 
 ## ⭐ Repo Stats
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula&hide=HTML" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula&hide=HTML&count_private=true" alt="Top language used in my repos" />
 
 
 ## ☕ How to connect with me:
