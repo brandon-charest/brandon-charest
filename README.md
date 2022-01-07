@@ -7,12 +7,12 @@ I am a Software Engineer and Life-Long learner
 
 
 ## 🌱 Technologies I’m currently learning 
-<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/>
 
 
 ## 🔭 I’m currently working on
-🏫 Working towards Masters in CS.</br>
-💻 Starting a tech blog.
+🏫 Working towards Masters in Computer Science.</br>
+💻 Starting a programing blog.
 
 ## ⭐ Repo Stats
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula&count_private=true" alt="Top language used in my repos" />
