@@ -2,22 +2,34 @@
 
 I am a Software Engineer and lifelong learner
 
-## 🛠 Technologies & Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"  width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="50" height="50"  /> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/typescript/typescript-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-</br></br>    
-## 🌱 Technologies I’m currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"  width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/>
+## 🚀 Current Focus & Philosophy
 
-## 🔭 I’m currently working on
-🏫 Masters in Computer Science @ Northeastern University.</br>
-💻 Starting a programing blog.
+- **Engineering Philosophy**: I'm driven by the principles of clean architecture, high-performance optimization, and writing code that is not just functional but also maintainable and scalable.
 
-## ⭐ Repo Stats
+- **Writing**: Developing a technical blog to document deep dives into system design, performance tuning, and architectural patterns.
+
+- **Learning**: Actively learning Go, Rust, and GraphQL to expand my toolkit for building high-performance, next-generation services.
+  
+## 🛠️ Core Technologies
+| Category | Technologies |
+|---|---|
+| Backend & Languages  | Python, Java, C# / .NET, C++, C | 
+| Frontend & Web | React, TypeScript |
+| Data & Infrastructure | Apache Kafka, AWS, Docker, PostgreSQL |
+| Tools & Platforms | Linux, Git |
+
+## 🌱 Open To
+
+- Collaborating on interesting open-source backend projects.
+- Discussing new technologies and architectural challenges.
+- Connecting with other software engineers and industry professionals.
+
+## 📊 My GitHub Stats
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-charest&layout=compact&theme=dracula&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top language used in my repos" />
 
 
 ## ☕ How to connect with me:
+I'm always open to connecting with other professionals. Feel free to reach out to discuss technology, projects, or potential collaborations.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csabatothdev/)](https://www.linkedin.com/in/brandon-charest/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.charest019@gmail.com)](mailto:b.charest019@gmail.com)
 
