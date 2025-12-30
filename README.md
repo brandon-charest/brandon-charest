@@ -6,9 +6,9 @@ I am a Software Engineer and lifelong learner
 
 - **Engineering Philosophy**: I'm driven by the principles of clean architecture, high-performance optimization, and writing code that is not just functional but also maintainable and scalable.
 
-- **Writing**: Developing a technical blog to document deep dives into system design, performance tuning, and architectural patterns.
+- **Writing**: [brandoncharest.dev](https://brandoncharest.dev). Where I write about things I am currently breaking and how to fix them.
 
-- **Learning**: Actively learning Go, Rust, and GraphQL to expand my toolkit for building high-performance, next-generation services.
+- **Learning**: Actively learning Go, Rust.
   
 ## 🛠️ Core Technologies
 | Category | Technologies |
