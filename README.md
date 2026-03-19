@@ -12,9 +12,9 @@ I also build things for fun — price comparison tools, Rust emulators, password
 
 | Domain | Technologies |
 |---|---|
-| **Languages** | Java · Kotlin · Python · Rust · TypeScript |
+| **Languages** | Python · Java · Rust · TypeScript · C# · C |
 | **Cloud & Infra** | AWS (CDK, Step Functions, Lambda, ECS) · Docker · GitHub Actions |
-| **Data & Messaging** | PostgreSQL · Apache Kafka |
+| **Data & Messaging** | PostgreSQL · Apache Kafka · Redis |
 | **Frontend** | React |
 | **Tooling** | Linux · Git · Claude Code |
 
@@ -24,7 +24,7 @@ I also build things for fun — price comparison tools, Rust emulators, password
 
 ### [CigarEdge](https://cigar-edge.com) — *Cigar Price Comparison & History*
 A niche price comparison platform for the cigar market. Built with scrapers aggregating prices across major retailers, price history tracking, and affiliate monetization. Backend scraping pipeline, SEO-first frontend.
-`Python` `PostgreSQL` `Web Scraping` `Affiliate`
+`Python` `NextJS` `PostgreSQL`
 
 ### [roastmypassword.com](https://roastmypassword.com) — *Password Strength Checker*
 Enter a password, get roasted. A Rust learning project that evaluates password strength and delivers humorous but informative feedback. Live and fully deployed.
