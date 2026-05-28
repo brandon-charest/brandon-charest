@@ -22,7 +22,7 @@ I also build things for fun — price comparison tools, Rust emulators, password
 
 ## 🔨 Featured Projects
 
-### [CigarEdge](https://cigar-edge.com) — *Cigar Price Comparison & History*
+### [CigarEdge](https:///cigaredge.com) — *Cigar Price Comparison & History*
 A niche price comparison platform for the cigar market. Built with scrapers aggregating prices across major retailers, price history tracking, and affiliate monetization. Backend scraping pipeline, SEO-first frontend.
 `Python` `NextJS` `PostgreSQL`
 
